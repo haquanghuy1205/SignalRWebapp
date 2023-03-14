@@ -1,0 +1,15 @@
+D:\SignalR\SignalRWebApp\Infrastructures\bin\Debug\net6.0\Infrastructures.deps.json
+D:\SignalR\SignalRWebApp\Infrastructures\bin\Debug\net6.0\Infrastructures.dll
+D:\SignalR\SignalRWebApp\Infrastructures\bin\Debug\net6.0\Infrastructures.pdb
+D:\SignalR\SignalRWebApp\Infrastructures\bin\Debug\net6.0\Model.dll
+D:\SignalR\SignalRWebApp\Infrastructures\bin\Debug\net6.0\Model.pdb
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.AssemblyReference.cache
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.AssemblyInfoInputs.cache
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.AssemblyInfo.cs
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.CoreCompileInputs.cache
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.CopyComplete
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.dll
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\refint\Infrastructures.dll
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\Infrastructures.pdb
+D:\SignalR\SignalRWebApp\Infrastructures\obj\Debug\net6.0\ref\Infrastructures.dll

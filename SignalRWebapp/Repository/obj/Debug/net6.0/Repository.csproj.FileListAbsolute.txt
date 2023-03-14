@@ -1,0 +1,17 @@
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Repository.dll
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Repository.pdb
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Infrastructures.dll
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Model.dll
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Infrastructures.pdb
+D:\SignalR\SignalRWebApp\Repository\bin\Debug\net6.0\Model.pdb
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.dll
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\Repository.pdb
+D:\SignalR\SignalRWebApp\Repository\obj\Debug\net6.0\ref\Repository.dll
